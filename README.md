@@ -1,9 +1,13 @@
-### Hi there, I'm Anders 👋
+## Hi there, I'm Anders 👋
+
 
 I'm an engineer with experience in industrial IT, automation, and digitalization. I have a Master's degree in Industrial IT & Automation and a Bachelor's degree in Electronics & IT with specialization in automation. Currently, I'm working as a Software/Digitalization Engineer at Tronrud Engineering, where I develop various solutions in the digitalization domain.
 
 I also got an account for work @AndersLL4.
 
+
+[comment]: <> ###Connect with me
+[//]: <> (This is also a comment.)
 
 ### Programming and Technologies
 ------------------------------------------------
