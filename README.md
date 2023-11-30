@@ -6,8 +6,14 @@ I'm an engineer with experience in industrial IT, automation, and digitalization
 I also got an account for work @AndersLL4.
 
 
-[comment]: <> ###Connect with me
-[//]: <> (This is also a comment.)
+<!--
+ ###Connect with me
+
+light/dark mode e.g:
+![codeSTACKr YouTube Channel](./img/youtube-light.svg#gh-light-mode-only)
+![codeSTACKr YouTube Channel](./img/youtube-dark.svg#gh-dark-mode-only)
+ 
+-->
 
 ### Programming and Technologies
 ------------------------------------------------
