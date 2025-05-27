@@ -67,4 +67,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Some Github pages :) 
+
+[Rock, Paper, Scissors](https://anderslemme.github.io/rock_paper_scissors/)
 
