@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Some Github pages :) 
+### Some Github pages for my javascirpt projects :) 
 
 * [Etch a Sketch](https://anderslemme.github.io/Etch-a-Sketch/)
 * [Rock, Paper, Scissors](https://anderslemme.github.io/rock_paper_scissors/)
