@@ -69,6 +69,6 @@ Here are some ideas to get you started:
 
 ### Some Github pages :) 
 
-[Etch a Sketch](https://anderslemme.github.io/Etch-a-Sketch/)
-[Rock, Paper, Scissors](https://anderslemme.github.io/rock_paper_scissors/)
+* [Etch a Sketch](https://anderslemme.github.io/Etch-a-Sketch/)
+* [Rock, Paper, Scissors](https://anderslemme.github.io/rock_paper_scissors/)
 
