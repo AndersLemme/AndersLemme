@@ -72,4 +72,5 @@ Here are some ideas to get you started:
 
 * [Etch a Sketch](https://anderslemme.github.io/Etch-a-Sketch/)
 * [Rock, Paper, Scissors](https://anderslemme.github.io/rock_paper_scissors/)
+* [Calculator(work in progress)](https://anderslemme.github.io/calculator/)
 
