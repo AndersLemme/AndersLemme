@@ -6,7 +6,7 @@ I’m a Software Engineer with a Master’s degree in Industrial IT & Automation
 ### Sharpening My Skills
 
 <p align="left">
-  <a href="https://leetcode.com/u/Alemme/" target="_self">
+  <a href="https://leetcode.com/u/Alemme/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://www.kaggle.com/anderslemme" target="_blank">
