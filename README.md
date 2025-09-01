@@ -1,10 +1,24 @@
 ## Hi there, I'm Anders 👋
 
 
-I'm an engineer with experience in industrial IT, automation, and digitalization. I have a Master's degree in Industrial IT & Automation. Currently, I'm working as a Software/Digitalization Engineer at Tronrud Engineering.
+I’m a Software Engineer with a Master’s degree in Industrial IT & Automation. I have experience in industrial IT, automation, and software development, including frontend, backend, and system integration.
 
-I also got an account for work @AndersLL4.
+### Sharpening My Skills
 
+<p align="left">
+  <a href="[https://leetcode.com/your-username](https://leetcode.com/u/Alemme/)" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="[https://www.kaggle.com/your-username](https://www.kaggle.com/anderslemme)" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+</p>
+
+### Some Github pages for my javascirpt projects :) 
+
+* [Etch a Sketch](https://anderslemme.github.io/Etch-a-Sketch/)
+* [Rock, Paper, Scissors](https://anderslemme.github.io/rock_paper_scissors/)
+* [Calculator(work in progress)](https://anderslemme.github.io/calculator/)
 <!--
  ###Connect with me
 
@@ -68,9 +82,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Some Github pages for my javascirpt projects :) 
 
-* [Etch a Sketch](https://anderslemme.github.io/Etch-a-Sketch/)
-* [Rock, Paper, Scissors](https://anderslemme.github.io/rock_paper_scissors/)
-* [Calculator(work in progress)](https://anderslemme.github.io/calculator/)
 
