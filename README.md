@@ -9,9 +9,16 @@ I’m a Software Engineer with a Master’s degree in Industrial IT & Automation
   <a href="[https://leetcode.com/your-username](https://leetcode.com/u/Alemme/)" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
+  <a href="https://www.theodinproject.com/members/AndersLemme" target="_blank">
+    <img src="https://img.shields.io/badge/Odin%20Project-5A67D8?style=for-the-badge&logo=odin&logoColor=white" alt="The Odin Project"/>
+  </a>
   <a href="[https://www.kaggle.com/your-username](https://www.kaggle.com/anderslemme)" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
+  <a href="https://app.hackthebox.com/profile/LemmeDoThis" target="_blank">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box"/>
+  </a>
+
 </p>
 
 ### Some Github pages for my javascirpt projects :) 
