@@ -35,8 +35,8 @@ light/dark mode e.g:
  
 -->
 
-<!--
-### Programming and Technologies
+
+### Programming Skills and Technologies
 ------------------------------------------------
 <div align="left">
 <img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
@@ -59,7 +59,7 @@ light/dark mode e.g:
 <img width="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
 <img width="40" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/>
 </div>
--->
+
 -----------------------------------
 
 <!-- Test of Banner created with canva... did not work...
