@@ -23,9 +23,9 @@ I’m a Software Engineer with a Master’s degree in Industrial IT & Automation
 
 ### Some Github pages for my javascirpt projects :) 
 
+* [Calculator](https://anderslemme.github.io/calculator/)
 * [Etch a Sketch](https://anderslemme.github.io/Etch-a-Sketch/)
 * [Rock, Paper, Scissors](https://anderslemme.github.io/rock_paper_scissors/)
-* [Calculator(work in progress)](https://anderslemme.github.io/calculator/)
 <!--
  ###Connect with me
 
