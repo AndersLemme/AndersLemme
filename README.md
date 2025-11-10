@@ -3,6 +3,14 @@
 
 I’m a Software Engineer with a Master’s degree in Industrial IT & Automation. I have experience in industrial IT, automation, and software development, including frontend, backend, and system integration.
 
+
+### Some Github pages for my javascirpt projects :) 
+
+* [Calculator](https://anderslemme.github.io/calculator/)
+* [Etch a Sketch](https://anderslemme.github.io/Etch-a-Sketch/)
+* [Rock, Paper, Scissors](https://anderslemme.github.io/rock_paper_scissors/)
+
+
 ### Sharpening My Skills
 
 <p align="left">
@@ -20,12 +28,6 @@ I’m a Software Engineer with a Master’s degree in Industrial IT & Automation
   </a>
 </p>
 
-
-### Some Github pages for my javascirpt projects :) 
-
-* [Calculator](https://anderslemme.github.io/calculator/)
-* [Etch a Sketch](https://anderslemme.github.io/Etch-a-Sketch/)
-* [Rock, Paper, Scissors](https://anderslemme.github.io/rock_paper_scissors/)
 <!--
  ###Connect with me
 
