@@ -10,7 +10,7 @@ I’m a Software Engineer with a Master’s degree in Industrial IT & Automation
 * [Etch a Sketch](https://anderslemme.github.io/Etch-a-Sketch/)
 * [Rock, Paper, Scissors](https://anderslemme.github.io/rock_paper_scissors/)
 
-
+------------------------------------------------
 ### Sharpening My Skills
 
 <p align="left">
@@ -36,11 +36,11 @@ light/dark mode e.g:
 ![codeSTACKr YouTube Channel](./img/youtube-dark.svg#gh-dark-mode-only)
  
 -->
-
+------------------------------------------------
 
 ### Programming Skills and Technologies
 <!--
-------------------------------------------------
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -72,7 +72,6 @@ light/dark mode e.g:
 
 </div>
 
------------------------------------
 
 <!-- Test of Banner created with canva... did not work...
 <div style="position: relative; width: 100%; height: 0; padding-top: 33.3333%;
